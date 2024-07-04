@@ -1,8 +1,7 @@
 # Anshul Chauhan - Data Analyst
 
 ## Introduction
-
-Hello! My name is Anshul Chauhan, and I am a Data Analyst with 2.5 years of experience in the field. I hold a BTech degree in Computer Science and Engineering and have a strong foundation in data analysis, problem-solving, and data-driven decision-making.
+Hello there! My name is Anshul Chauhan, and I'm a Data Analyst with 2.5 years of experienc and have a strong foundation in data analysis, problem-solving, and making sense of the numbers. I have a BTech degree in Computer Science and Engineering, and I specialize in transforming coffee into code and data into decisions. When I'm not wrangling data, you can find me brewing the perfect cup of coffee and finding new ways to caffeinate my analyses.
 
 ## Skills and Expertise
 
@@ -17,16 +16,7 @@ Hello! My name is Anshul Chauhan, and I am a Data Analyst with 2.5 years of expe
 - Data-Driven Decision Making
 
 ## Projects 
-
-### Project 1: [Project Title]
-- **Description:** Brief description of the project, highlighting the problem it solves and the techniques used.
-- **Technologies Used:** List of technologies and tools used in the project.
-- **Key Achievements:** Notable results or accomplishments from the project.
-
-### Project 2: [Project Title]
-- **Description:** Brief description of the project, highlighting the problem it solves and the techniques used.
-- **Technologies Used:** List of technologies and tools used in the project.
-- **Key Achievements:** Notable results or accomplishments from the project.
+You can check out some of my work and projects on my GitHub profile.
 
 ## Contact Information
 
